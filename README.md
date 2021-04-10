@@ -3,7 +3,7 @@
 This is based on https://github.com/alexchang0229/SatelliteTracker. 
 This is the same, except is is made to work on Adafruit's line of board and uses updated libraries. Will be updated in 2 days with new code.
 
-#Original doc:
+Original doc:
 # SatelliteTracker
 This repository contains the code for my satellite tracker:<br />
 <img src="https://hackster.imgix.net/uploads/attachments/1156979/_ijWqYco4SG.blob?auto=compress%2Cformat&w=900&h=675&fit=min" width="600"> <br />
