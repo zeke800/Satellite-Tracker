@@ -2,6 +2,9 @@
 
 This is based on https://github.com/alexchang0229/SatelliteTracker. 
 This was inpired by the SatelliteTracker project (link above). 
-It can track one satellite at a time, by default NOAA 19. Made to work with Adafruit Metro Airlift, but may work with other wifi feather boards. 
+It can track one satellite at a time, by default NOAA 19. 
 
-CAUTION!!! EXTREME BETA! Code not working yet, hoping to finish it by tomorrow (as of 2021-04-11).
+CAUTION!!! EXTREME BETA (probably alpha)! Code might not work on some arduinos yet. 
+
+USAGE:
+Simply put the az/el in serial, "az,el". The motors will turn. Make sure to set the full rotation steps value!
