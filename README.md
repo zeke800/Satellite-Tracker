@@ -2,8 +2,7 @@
 
 This is based on https://github.com/alexchang0229/SatelliteTracker. 
 This was inpired by the SatelliteTracker project (link above). 
-It can track one satellite at a time, by default NOAA 19. 
-
+It can track one satellite at a time.
 CAUTION!!! EXTREME BETA (probably alpha)! Code might not work on some arduinos yet. 
 
 USAGE:
